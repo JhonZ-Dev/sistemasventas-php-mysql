@@ -1,0 +1,54 @@
+
+
+@font-face {
+    font-family: hiper;
+    src: url(distint.otf);
+}
+@font-face {
+    font-family: family_text;
+    src: url(KGCorneroftheSky.ttf);
+}
+#w{
+    color: #0179B4;
+    font-family: family_text;
+    font-size: 60px;
+
+
+}
+#e{
+    color: #03588C;
+    font-family: family_text;
+    font-size: 60px;
+
+
+}
+
+#m{
+    color:#E17909;
+    font-family: family_text;
+    font-size: 60px;
+
+}
+#a{
+    color:#E17909;
+    font-family: family_text;
+    font-size: 60px;
+
+}
+#k{
+    color:#F2B807;
+    font-family: family_text;
+    font-size: 60px;
+
+}
+#e1,#r,#s{
+    color:#E17909;
+    font-family: family_text;
+    font-size: 60px;
+
+}
+#academia{
+    color:#524C4D;
+    font-family: hiper;
+    font-size: 30px;
+}
